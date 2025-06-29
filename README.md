@@ -72,6 +72,14 @@ img/
 ## License
 MIT
 
+## Authors
+
+- [Warren] (https://github.com/Olabomi) — Lead Developer
+
+## Contributors
+
+Thanks to everyone who contributed!
+
 ---
 
 **Squeaky Kleen** — Professional Cleaning Services in Nigeria
